@@ -19,7 +19,7 @@
 	import Screens.StartScreen;
 	import Actors.Arrow;
 	import Actors.Player;
-	
+	  
 	
 	
 	public class Main extends MovieClip 
